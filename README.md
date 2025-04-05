@@ -25,8 +25,20 @@ https://github.com/JMK-26/District_PGI/blob/d32dbb1255da088ebb0b2e1be3083f2a78a0
 5.	How has district performances varies across different category ( outcome, ETC,etc,. )   ?
 
 # project insight
+1. Top & Bottom state of overall performance
+   ![Top   Bottom State of Overall Performance -1](https://github.com/user-attachments/assets/e0e7aedb-1dac-4d24-99a2-f578fdd4e28b)
 
+2. Category correlation by overall performance
+ ![Category Correalation by overall Performance -2](https://github.com/user-attachments/assets/09fcfe2e-94b0-4fba-9d22-c34a1899c7d0)
 
+3. Distribution of overall performance score by Grade
+![Distribution of Overall Performance Score by Grade -3](https://github.com/user-attachments/assets/60218486-5211-4cf9-a0a0-e7d960164d9c)
+
+4. Hight Performance
+![Hight performance State -4](https://github.com/user-attachments/assets/4bbf0ab9-84a2-45da-8e3a-70c90f1a1c92)
+
+5. Standard diviation of score category
+![Standard Deviation of Score Category -5](https://github.com/user-attachments/assets/30f7566c-8787-4d5c-a674-96d80116b484)
 
 
 # process
