@@ -22,12 +22,6 @@ District Performance Grading Index (PGI) Analysis - India - ( 2021-2022 )
 5.	How has district performances varies across different category ( outcome, ETC,etc,. )   ?
 
 # project insight
-! [image alt](https://github.com/JMK-26/District_PGI/blob/472ab1b22fc67133b579506bad4fe76b4939f284/Top.jpg.jpg)
-
-![Image](https://github.com/user-attachments/assets/d7604e78-f8cb-4d9c-9152-4015c7beac09)
-
-
-![Category Correalation by overall Performance -2](https://github.com/user-attachments/assets/4b198884-4665-4261-92c6-2f6561e9885b)
 
 
 
