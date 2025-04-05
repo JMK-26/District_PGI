@@ -26,6 +26,12 @@ District Performance Grading Index (PGI) Analysis - India - ( 2021-2022 )
 
 ![Image](https://github.com/user-attachments/assets/d7604e78-f8cb-4d9c-9152-4015c7beac09)
 
+
+![Category Correalation by overall Performance -2](https://github.com/user-attachments/assets/4b198884-4665-4261-92c6-2f6561e9885b)
+
+
+
+
 # process
 •	Data was Loaded and cleaned using of python and pandas.
 
