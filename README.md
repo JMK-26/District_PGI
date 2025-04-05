@@ -11,6 +11,7 @@ District Performance Grading Index (PGI) Analysis - India - ( 2021-2022 )
 •	To uncover patterns and trends in the data it can assist improvement quality of school education across India.
 
 # Data set:
+https://github.com/JMK-26/District_PGI/blob/d32dbb1255da088ebb0b2e1be3083f2a78a0e6f2/District_PGI_Data_Set.csv
 
  # Qustions 
 1.	Which state have highest and lowest performing district overall ?
