@@ -1,3 +1,5 @@
+![District PGI i - visual selection](https://github.com/user-attachments/assets/0fa6b0eb-432d-4b04-9063-4a2fd95fa855)
+
 # District_PGI
 District Performance Grading Index (PGI) Analysis - India - ( 2021-2022 )
 
